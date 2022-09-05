@@ -1,1 +1,2 @@
-chmod u+x 2-hellofile
+#!/bin/bash
+cat /etc/passwd
